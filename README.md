@@ -55,6 +55,8 @@ Y2 value (Vertical): 24
 The Euclidean distance between A(0.0, 0.0) and B(7.0, 24.0) is: 25.00
 ```
 
+<img src="https://raw.githubusercontent.com/nepatiess/min_euclid_distance/refs/heads/main/euclid%20distance.PNG" >
+
 ---
 
 ## 📊 Plot
@@ -154,6 +156,8 @@ Y2 value (Vertical): 24
 --- Result ---
 The Euclidean distance between A(0.0, 0.0) and B(7.0, 24.0) is: 25.00
 ```
+
+<img src="https://raw.githubusercontent.com/nepatiess/min_euclid_distance/refs/heads/main/euclid%20distance.PNG" >
 
 ---
 
