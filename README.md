@@ -76,8 +76,9 @@ After the calculation, a window will open showing:
 ```
 euclidean-distance/
 │
-├── euclidean_distance.py   # Main script
-└── README.md               # This file
+├── min_euclid_distance.py     # Main script
+├── min_euclid_distance.ipynb  # ipynb
+└── README.md                  # This file
 ```
 
 ---
@@ -175,8 +176,9 @@ Hesaplama tamamlandıktan sonra bir pencere açılır ve şunlar gösterilir:
 ```
 euclidean-distance/
 │
-├── euclidean_distance.py   # Ana betik
-└── README.md               # Bu dosya
+├── min_euclid_distance.py     # Ana betik
+├── min_euclid_distance.ipynb  # ipynb
+└── README.md                  # Bu dosya
 ```
 
 ---
