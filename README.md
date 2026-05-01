@@ -35,7 +35,7 @@ pip install matplotlib
 ## ▶️ How to Run
 
 ```bash
-python euclidean_distance.py
+python euclid_distance.py
 ```
 
 Then follow the prompts to enter the X and Y coordinates for Point A and Point B.
@@ -76,9 +76,9 @@ After the calculation, a window will open showing:
 ```
 euclidean-distance/
 │
-├── min_euclid_distance.py     # Main script
-├── min_euclid_distance.ipynb  # ipynb
-└── README.md                  # This file
+├── euclid_distance.py     # Main script
+├── euclid_distance.ipynb  # ipynb
+└── README.md              # This file
 ```
 
 ---
@@ -135,7 +135,7 @@ pip install matplotlib
 ## ▶️ Çalıştırma
 
 ```bash
-python euclidean_distance.py
+python euclid_distance.py
 ```
 
 Ardından ekrandaki yönergeleri takip ederek A ve B noktalarının X ve Y koordinatlarını girin.
@@ -176,9 +176,9 @@ Hesaplama tamamlandıktan sonra bir pencere açılır ve şunlar gösterilir:
 ```
 euclidean-distance/
 │
-├── min_euclid_distance.py     # Ana betik
-├── min_euclid_distance.ipynb  # ipynb
-└── README.md                  # Bu dosya
+├── euclid_distance.py     # Ana betik
+├── euclid_distance.ipynb  # ipynb
+└── README.md              # Bu dosya
 ```
 
 ---
